@@ -1,6 +1,9 @@
 # Parking Sensor
 My first arduino project with parking sensor, turn signals, front and back lights.  
 
+## Libraries
+```#include <U8glib.h>```
+
 ## Functionality
 1) Button 1 turns on  white and red diodes (front and back lights) on the fist press, and disables them on the second press.
 2) Button 2 turns on right turn singnals            <i>(blinking 7 times due to for loop usage).</i>
