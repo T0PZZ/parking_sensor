@@ -6,8 +6,8 @@ My first arduino project with parking sensor, turn signals, front and back light
 
 ## Functionality
 1) Button 1 turns on  white and red diodes (front and back lights) on the fist press, and disables them on the second press.
-2) Button 2 turns on right turn singnals            <i>(blinking 7 times due to for loop usage).</i>
-3) Button 3 turns on left  turn singnals            <i>(blinking 7 times due to for loop usage).</i>
+2) Button 2 turns on right turn singnals            <i>(blinking 7 times due to ```for loop``` usage).</i>
+3) Button 3 turns on left  turn singnals            <i>(blinking 7 times due to ```for loop``` usage).</i>
 4) Button 4 enables buzzer with first press and disables with second .
 5) Buzzer is silent when distance to obstacle is <b>greater than 100 cm.</b>
 6) Buzzer is  buzzing with 500ms interval when distance to obstacle is <b>between 100 and 50 cm.</b>
