@@ -21,4 +21,4 @@ Virtual build was made using  [wokwi.com](https://wokwi.com/)
 Virtual model [CLICK](https://wokwi.com/projects/364366618965865473).
 
 ### Electrical Scheme 
-![Scheme](https://i.imgur.com/DSe2sgM.png)
+![Scheme](https://i.imgur.com/M7tUTZr.png)
