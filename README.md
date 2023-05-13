@@ -1,9 +1,6 @@
 # Parking Sensor
 My first arduino project with parking sensor, turn signals, front and back lights.  
 
-## Libraries
-```#include <U8glib.h>```
-
 ## Functionality
 1) Button 1 turns on  white and red diodes (front and back lights) on the fist press, and disables them on the second press.
 2) Button 2 turns on right turn singnals            <i>(blinking 7 times due to ```for loop``` usage).</i>
@@ -13,6 +10,10 @@ My first arduino project with parking sensor, turn signals, front and back light
 6) Buzzer is  buzzing with 500ms interval when distance to obstacle is <b>between 100 and 50 cm.</b>
 7) Buzzer is constantly buzzing when distance to obstacle is <b>lesser than 50 cm.</b>
 8) Oled screen is displaying string <b>"Distance:       [cm]"</b> with int (distance).
+
+
+## Libraries
+```#include <U8glib.h>```
 
 ### Component list:
 - 1 x HC-SR04 Ultrasonic sensor
@@ -25,7 +26,7 @@ My first arduino project with parking sensor, turn signals, front and back light
 - 1x oled screen (SPI)
 - bunch of cables
 
-## *DISCLAIMER* 
+## *DISCLAIMER* ⚠️
 <b><i> SPI OLED display is currently not supported by wokwi.com, so I have used I2C one in example below</b></i>.
 
 ### Virtual arduino build 
