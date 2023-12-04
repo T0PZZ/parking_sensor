@@ -32,7 +32,7 @@ My first arduino project with parking sensor, turn signals, front and back light
 ### Virtual arduino build 
 Virtual build was made using  [wokwi.com](https://wokwi.com/)
 
-Virtual model [CLICK](https://wokwi.com/projects/364366618965865473).
+Virtual model [CLICK](https://wokwi.com/projects/383187545250403329).
 
 ### Electrical Scheme 
 ![Scheme](https://i.imgur.com/M7tUTZr.png)
