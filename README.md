@@ -35,4 +35,5 @@ Virtual build was made using  [wokwi.com](https://wokwi.com/)
 Virtual model [CLICK](https://wokwi.com/projects/383187545250403329).
 
 ### Electrical Scheme 
-![Scheme](https://i.imgur.com/M7tUTZr.png)
+![Scheme](https://github.com/T0PZZ/parking_sensor/assets/133130146/fd93ce60-2b86-46b5-9efb-6f968b222dab)
+
